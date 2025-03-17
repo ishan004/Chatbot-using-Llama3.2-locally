@@ -56,5 +56,15 @@ Once everything is set up, run the chatbot using the following command:
 
 ```bash
 python chatbot.py
+```
+
+
+### Explanation:
+
+- **4. Set Up Ollama**: Gives instructions on setting up the **Ollama** software and **Llama3.2:3B** model. A link is provided to the official Ollama installation guide.
+- **5. Run the Chatbot**: Clear, concise instructions on how to run the chatbot once all the prerequisites are installed and set up.
+
+This format is ready for you to copy-paste directly into your `README.md` file. Let me know if you need any further adjustments!
+
 
 
