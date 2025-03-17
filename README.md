@@ -25,3 +25,22 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/ishan004/Chatbot-using-Llama3.2-locally.git
 cd Chatbot-using-Llama3.2-locally
+```
+
+
+### 2. Set Up a Virtual Environment (Optional, but recommended)
+
+Create a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+### 3. Install Required Packages
+
+Install the necessary Python dependencies:
+
+```bash
+pip install langchain_ollama langchain_core
+```
+
