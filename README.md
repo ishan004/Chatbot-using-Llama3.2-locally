@@ -1,4 +1,6 @@
-Chatbot using Llama3.2 Locally (Ollama)
+**Chatbot using Llama3.2 Locally (Ollama)**
+
+
 This project demonstrates how to create a local chatbot using the Ollama Llama3.2:3B model. It allows you to interact with an AI chatbot in a conversational manner directly from your terminal. The chatbot uses the langchain_ollama package to interface with the Llama3.2 model and handle user input.
 
 Features
