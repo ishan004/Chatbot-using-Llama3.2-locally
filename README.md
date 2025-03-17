@@ -44,3 +44,17 @@ Install the necessary Python dependencies:
 pip install langchain_ollama langchain_core
 ```
 
+### 4. Set Up Ollama
+
+To run the chatbot locally, you need the **Ollama** software with the **Llama3.2:3B** model. You can follow the official [Ollama installation guide](https://ollama.com) to install the software and model.
+
+Ensure that the **Ollama** model is running and accessible before starting the chatbot.
+
+### 5. Run the Chatbot
+
+Once everything is set up, run the chatbot using the following command:
+
+```bash
+python chatbot.py
+
+
